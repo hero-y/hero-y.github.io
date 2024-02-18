@@ -6,3 +6,15 @@
 # 💻 Internships
 - *2023.06 - 2023.08*,  MMU, KuaiShou, Hangzhou.
 - *2021.09 - 2023.05*,  DAMO Academy, Alibaba Group, Hangzhou.
+
+# 🎓 Academic Service
+- **Reviewing**  
+  - *Conferences*:  
+    - CVPR 2022-2023  
+    - ICCV 2023
+    - ECCV 2024
+    - MM 2024
+
+  - *Journals*:
+    - IEEE Transactions on Circuits and Systems for Video Technology
+    - Neurocomputing
