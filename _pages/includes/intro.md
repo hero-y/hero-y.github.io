@@ -9,5 +9,5 @@ My current research interests include:
 - 2️⃣ AIGC,
 - 3️⃣ Language-Vision Foundation Models and their Applications.
 
-<span style="color:red"><strong> I am currently seeking job opportunities, such as postdoctoral positions, and industry, focusing on research-oriented roles. I would be delighted to discuss any job openings. Please don't hesitate to contact me at hanqing.yang@zju.edu.cn. </strong></span>
+<span style="color:red"><strong> I am currently seeking job opportunities, such as postdoctoral positions, focusing on research-oriented roles. I would be delighted to discuss any job openings. Please don't hesitate to contact me at hanqing.yang@zju.edu.cn. </strong></span>
 
