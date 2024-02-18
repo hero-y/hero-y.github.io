@@ -1,6 +1,6 @@
 
 # 📖 Educations
-- *2019.06 - present*, Ph.D., Zhejiang University, Hangzhou.
+- *2019.09 - present*, Ph.D., Zhejiang University, Hangzhou.
 - *2015.09 - 2019.06*, Undergraduate, Sichuan Univeristy, Chengdu.
 
 # 💻 Internships
