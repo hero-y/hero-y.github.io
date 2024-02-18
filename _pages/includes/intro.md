@@ -1,7 +1,7 @@
 😃 Welcome to my personal page!
 
 I am Hanqing Yang, currently pursuing my Ph.D. (Sep. 2019 - 2024) at Zhejiang University. Before that, I obtained my B.Eng (Sep. 2015 - Jun. 2019) from Sichuan University.
-I am fortunate to be supervised by Prof. [Yu Zhang](https://person.zju.edu.cn/zhangyu/#0) at ZJU. Additionally, I undertake a visiting Ph.D. program at NTU, supervised by Prof. [Guosheng Lin](https://guosheng.github.io/). Moreover, I am also fortunate to work with Prof. [Shengfeng He](http://www.shengfenghe.com/) at SMU. 
+I am supervised by Prof. [Yu Zhang](https://person.zju.edu.cn/zhangyu/#0) at ZJU. Additionally, I undertake a visiting Ph.D. program at NTU, supervised by Prof. [Guosheng Lin](https://guosheng.github.io/). Moreover, I am also fortunate to work with Prof. [Shengfeng He](http://www.shengfenghe.com/) at SMU. 
 As part of Alibaba's Research Intern Program, I am supervised by [Sijia Cai](https://scholar.google.com.hk/citations?user=LMVeRVAAAAAJ&hl=en).
 
 My current research interests include:
