@@ -6,7 +6,7 @@ I am Hanqing Yang, currently pursuing my Ph.D. (Sep. 2019 - 2024) at Zhejiang Un
 
 My current research interests include:
 - 1️⃣ Few-shot Object Perception,
-- 2️⃣ AIGC,
+- 2️⃣ Diffusion-based Generation,
 - 3️⃣ Language-Vision Foundation Models and their Applications.
 
 <span style="color:red"><strong> I am currently seeking job opportunities, such as postdoctoral positions, focusing on research-oriented roles. I would be delighted to discuss any job openings. Please don't hesitate to contact me at hanqing.yang@zju.edu.cn. </strong></span>
