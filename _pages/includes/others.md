@@ -17,7 +17,6 @@
     - CVPR 2022-2023  
     - ICCV 2023
     - ECCV 2024
-    - MM 2024
 
   - *Journals*:
     - IEEE Transactions on Circuits and Systems for Video Technology
