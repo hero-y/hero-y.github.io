@@ -5,7 +5,7 @@ I am Hanqing Yang, currently pursuing my Ph.D. (Sep. 2019 - 2024) at Zhejiang Un
 <!-- Moreover, I am also fortunate to work with Prof. [Shengfeng He](http://www.shengfenghe.com/) at SMU.-->
 
 My current research interests include:
-- 1️⃣ Few-shot Object Perception,
+- 1️⃣ 2D/3D/Few-shot Object Perception,
 - 2️⃣ Diffusion-based Generation,
 - 3️⃣ Language-Vision Foundation Models and their Applications.
 
