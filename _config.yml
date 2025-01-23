@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hanqing Yang"
-description              : "A Ph.D. candidate working on AI."
+description              : "An interesting AI researcher."
 repository               : "hero-y/hero-y.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ google_scholar_stats_use_cdn : true
 author:
   name             : "Hanqing Yang"
   avatar           : "images/hanqing_profile.png"
-  bio              : "Zhejiang University"
+  bio              : "Alibaba Group / Zhejiang University"
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
